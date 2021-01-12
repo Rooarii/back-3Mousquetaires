@@ -1,0 +1,19 @@
+{
+  "name": "back-3mousquetaires",
+  "version": "1.0.0",
+  "description": "wild code school hackathon february - 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rooarii/back-3Mousquetaires.git"
+  },
+  "author": "3Mousquetaires",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rooarii/back-3Mousquetaires/issues"
+  },
+  "homepage": "https://github.com/Rooarii/back-3Mousquetaires#readme"
+}
